@@ -17,4 +17,4 @@ function refreshAll() {
 }
 
 refreshAll();
-setInterval(refreshAll, 500);
+setInterval(refreshAll, 2000);
